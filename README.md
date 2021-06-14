@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/shreeya36/Stats-preview-card-component)
-
+-Live Share: [Solution](https://codepen.io/Shreeya_36/pen/LYWXrbv)
 
 
 
